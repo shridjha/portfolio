@@ -122,7 +122,7 @@ export default function Hero() {
               <div className="absolute inset-0 bg-gradient-to-r from-purple-400 to-blue-400 dark:from-purple-600 dark:to-blue-600 rounded-3xl transform -rotate-6 opacity-50"></div>
               <div className="relative rounded-2xl overflow-hidden shadow-2xl w-full h-full">
                 <Image
-                  src="https://media.licdn.com/dms/image/v2/D4D03AQGAe-nGsEying/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1723275986328?e=1744243200&v=beta&t=uK2GlKhHn0W-LV2yoi1i4fL2OH0cj65KhQLT9rhQA1Y"
+                  src="/shrid-jha.jpg"
                   alt="Shrid Jha"
                   layout="fill"
                   objectFit="cover"
